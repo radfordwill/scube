@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Scany GUI
+Comment=Scany Scanner Gui
+Exec=/home/pi/elicam/start
+Terminal=false
+Categories=None;
